@@ -1,0 +1,17 @@
+﻿  main.cpp
+  ofApp.cpp
+src\ofApp.cpp(164): warning C4996: 'ofCircle': Use ofDrawCircle instead
+  f:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofGraphics.h(500): note:  см. объявление "ofCircle"
+src\ofApp.cpp(210): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  f:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofGraphics.h(512): note:  см. объявление "ofRect"
+     Создается библиотека bin\pinpong_debug.lib и объект bin\pinpong_debug.exp
+  emptyExample.vcxproj -> F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\pinpong\bin\pinpong_debug.exe
+  
+  	                   2	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	    Новый файл		 1266176	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    Новый файл		 1312768	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1266176	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\pinpong\bin\fmodex.dll
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1312768	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\pinpong\bin\fmodexL.dll
+  	    Новый файл		 5647872	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
